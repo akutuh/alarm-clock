@@ -1,0 +1,46 @@
+.button-alarm {
+  background-color: red;
+  color: white;
+  border: none;
+  font-size: 30px;
+  padding: 10px 10px;
+  border-radius: 12px;
+  cursor: pointer;
+  box-shadow: 5px 10px black;
+}
+
+.button-reset {
+  background-color: blue;
+  color: white;
+  border: none;
+  font-size: 30px;
+  padding: 10px 10px;
+  border-radius: 12px;
+  cursor: pointer;
+  box-shadow: 5px 10px black;
+}
+
+.time-button {
+  background-color: grey;
+  color: white;
+  border: none;
+  cursor: pointer;
+  box-shadow: 5px 10px black;
+  border-radius: 12px;
+  margin-bottom: 1rem;
+}
+
+.time {
+  margin-bottom: 1rem;
+}
+
+.App {
+  text-align: center;
+  margin: auto;
+  width: 100%;
+  font-size: 40px;
+}
+
+body {
+  margin: 0;
+}
